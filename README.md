@@ -1,9 +1,10 @@
-# BES_distribution_algorithm_simualtion
 # Project name: BES distribution algorithm simualtion
-**Description**: project of '산업정보관리론' class in Yonsei
+**Description**: project of '시뮬레이션' class in Yonsei
 
-**Code**: SQL코드모음
+**Code**: arena_code
 
-**Report**: 산업정보관리론_29조_최종.pdf
+**data**: input data
+
+**Report**: 시뮬레이션_term project_보고서_7조.pdf
 
 <img src="https://img.shields.io/badge/ARENA-ED1F35?style=for-the-badge&logo=ARENA&logoColor=black">
